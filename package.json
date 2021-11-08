@@ -2,13 +2,13 @@
   "name": "englishgame2",
   "version": "1.0.0",
   "description": "",
-  "main": "script.js",
+  "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1",
-    "nunjucks": "^3.2.3"
+    "express": "^4.17.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.14"
+    "nodemon": "^2.0.14",
+    "nunjucks": "^3.2.3"
   },
   "scripts": {
     "start": "nodemon server.js"
