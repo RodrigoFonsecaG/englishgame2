@@ -1,7 +1,7 @@
-const express = require('express');
+const express = require("express")
 const server = express();
 
-const nunjucks = require('nunjucks');
+const nunjucks = require("nunjucks");
 
 nunjucks.configure("src", {
     express: server,
