@@ -1,6 +1,7 @@
-const enWord = document.querySelector('h2');
-const enPhrase = document.querySelector('h3');
+const enWord = document.querySelector('.word-en');
+const enPhrase = document.querySelector('.phrase');
 const ptWord = document.querySelector('.reveal-word');
+const ptType = document.querySelector('.type')
 const btn = document.querySelector('button');
 
 const wordsResponse = await fetch(`./data.json`);
@@ -17,6 +18,7 @@ function showWord() {
 
   enWord.innerHTML = `A palavra é: <br>${wordsJSON[contador].en}`;
   enPhrase.innerHTML = `Uso em uma frase: <br> "${wordsJSON[contador].phrase}"`;
+  ptType.innerHTML = `Classe gramatical: ${wordsJSON[contador].type}`;
   ptWord.innerHTML = wordsJSON[contador].pt;
   contador++;
 }

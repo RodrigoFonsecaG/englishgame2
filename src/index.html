@@ -15,11 +15,14 @@
   </head>
   <body>
     <section class="main">
+      <div class="container">
       <div class="info">
         <h1>Aprenda uma nova palavra hoje!</h1>
+        <i class="add-word">+</i>
         <div class="question">
-          <h2></h2>
-          <h3></h3>
+          <h2 class="word-en"></h2>
+          <h3 class="type"></h3>
+          <h3 class="phrase"></h3>
           <h4>Clique para revelar a palavra 🠗</h4>
           <p class="reveal-word"></p>
         </div>
@@ -28,7 +31,30 @@
       <div class="image">
         <img src="man-gadgets.png" alt="" />
       </div>
+    </div>
+    </section>
+
+    <section class="modal-container" data-modal="container">
+      <div class="modal container">
+        <button class="close">X</button>
+        <form id="formulario" name="formularios" method="POST">
+          <label for="word">Palavra em inglês</label>
+          <input type="text" name="en" id="word" placeholder="Ex: House" required/>
+
+          <label for="wordpt">Palavra em português</label>
+          <input type="text" name="pt" id="wordpt" placeholder="Ex: Casa" required/>
+
+          <label for="phrase">Frase em inglês</label>
+          <input type="text" name="phrase" id="phrase" placeholder="Ex: My house has three bedrooms" required/>
+
+          <label for="phrase">Classe da palavra em português</label>
+          <input type="classe" name="type" id="classe" placeholder="Ex: substantivo" required/>
+
+          <button type="submit" class="button button-submit">Adicionar</button>
+        </form>
+      </div>
     </section>
     <script src="script.js" type="module"></script>
+    <script src="modal.js" type="module"></script>
   </body>
 </html>

@@ -1,206 +1,218 @@
 [
-   {
-      "en":"house",
-      "pt":"casa",
-      "type":"substantivo, feminino",
-      "phrase":"My house has three bedrooms and a large kitchen."
-   },
-   {
-      "en":"gain",
-      "pt":"ganhar",
-      "type":"verbo",
-      "phrase":"The bar gained new customers after the menu changes."
-   },
-   {
-      "en":"safe",
-      "pt":"seguro",
-      "type":"adjetivo",
-      "phrase":"I always keep my credit card in a safe place."
-   },
-   {
-      "en":"warehouse",
-      "pt":"armazém",
-      "type":"substantivo",
-      "phrase":"The manufacturer stores the finished products in a warehouse."
-   },
-   {
-      "en":"fall",
-      "pt":"queda",
-      "type":"substantivo",
-      "phrase":"Excessively high prices will cause a fall in sales."
-   },
-   {
-      "en":"past",
-      "pt":"passado",
-      "type":"adjetivo / particípio passado",
-      "phrase":"The company achieved its goals in the past year."
-   },
-   {
-      "en":"hard",
-      "pt":"dificil",
-      "type":"adjetivo / particípio passado",
-      "phrase":"The breadth of the subject makes it hard to master."
-   },
-   {
-      "en":"word",
-      "pt":"palavra",
-      "type":"adjetivo / particípio passado",
-      "phrase":"The stress of that word is on the last syllable."
-   },
-   {
-      "en":"apple",
-      "pt":"maçã",
-      "type":"substantivo",
-      "phrase":"Apples are delicious and, moreover, great for your health."
-   },
-   {
-      "en":"bread",
-      "pt":"pão",
-      "type":"substantivo",
-      "phrase":"The baker sells three kinds of bread."
-   },
-   {
-      "en":"run",
-      "pt":"correr",
-      "type":"verbo",
-      "phrase":"Those newer games do not run on old computers."
-   },
-   {
-      "en":"background",
-      "pt":"fundo",
-      "type":"substantivo",
-      "phrase":"There is a castle in the background of the picture."
-   },
-   {
-      "en":"law",
-      "pt":"lei",
-      "type":"substantivo",
-      "phrase":"The government has passed a new law."
-   },
-   {
-      "en":"awesome",
-      "pt":"incrível",
-      "type":"adjetivo",
-      "phrase":"My trip was awesome, I loved every minute."
-   },
-   {
-      "en":"database",
-      "pt":"base de dados",
-      "type":"substantivo",
-      "phrase":"The company stores clients data in a database."
-   },
-   {
-      "en":"server",
-      "pt":"servidor",
-      "type":"substantivo",
-      "phrase":"All computers are connected to the server."
-   },
-   {
-      "en":"technology",
-      "pt":"tecnologia",
-      "type":"substantivo, feminino",
-      "phrase":"Scientists discussed the deployment of new technologies."
-   },
-   {
-      "en":"research",
-      "pt":"pesquisa",
-      "type":"substantivo",
-      "phrase":"Research is necessary to the advancement of science."
-   },
-   {
-      "en":"innovation",
-      "pt":"inovação",
-      "type":"substantivo",
-      "phrase":"The technical innovations make the new model much faster."
-   },
-   {
-      "en":"connection",
-      "pt":"conexão",
-      "type":"substantivo",
-      "phrase":"The modem established a connection with the network."
-   },
-   {
-      "en":"coding",
-      "pt":"codificação",
-      "type":"substantivo",
-      "phrase":"The coding used in military messages is hard to decrypt."
-   },
-   {
-      "en":"wireless",
-      "pt":"sem fio",
-      "type":"adjetivo",
-      "phrase":"I have a wireless headphone"
-   },
-   {
-      "en":"keyboard",
-      "pt":"teclado",
-      "type":"substantivo",
-      "phrase":"i bought a new keyboard for my computer"
-   },
-   {
-      "en":"phone",
-      "pt":"telefone",
-      "type":"substantivo",
-      "phrase":"The phone fits perfectly into the case."
-   },
-   {
-      "en":"height",
-      "pt":"altura",
-      "type":"substantivo",
-      "phrase":"The topographer calculated the height of the mountain."
-   },
-   {
-      "en":"width",
-      "pt":"largura",
-      "type":"substantivo",
-      "phrase":"The architect carefully measured the width of the bedroom."
-   },
-   {
-      "en":"work",
-      "pt":"trabalho",
-      "type":"substantivo",
-      "phrase":"I finished the work before the deadline."
-   },
-   {
-      "en":"deadline",
-      "pt":"prazo",
-      "type":"substantivo",
-      "phrase":"We will have to work all night to meet the deadline."
-   },
-   {
-      "en":"mining",
-      "pt":"mineração",
-      "type":"substantivo",
-      "phrase":"Coal and ore are extracted by mining."
-   },
-   {
-      "en":"strength",
-      "pt":"força",
-      "type":"substantivo",
-      "phrase":"The athlete lifts weights to increase his physical strength."
-   },
-   {
-      "en":"string",
-      "pt":"corda",
-      "type":"substantivo",
-      "phrase":"I bought new strings for my guitar yesterday."
-   },
-   {
-      "en":"musician",
-      "pt":"músico",
-      "type":"substantivo",
-      "phrase":"The musician played the new composition at the concert."
-   },
-   {
-      "en":"wonderful",
-      "pt":"maravilhoso",
-      "type":"adjetivo, masculino",
-      "phrase":"The rooftop terrace offers a wonderful view of the city."
-   },
-   {
-      "en":"bathroom",
-      "pt":"banheiro",
-      "type":"substantivo",
-      "phrase":"We replaced the sink, the toilet and the tiles in the bathroom."
-   }
+  {
+    "en": "house",
+    "pt": "casa",
+    "type": "substantivo, feminino",
+    "phrase": "My house has three bedrooms and a large kitchen."
+  },
+  {
+    "en": "gain",
+    "pt": "ganhar",
+    "type": "verbo",
+    "phrase": "The bar gained new customers after the menu changes."
+  },
+  {
+    "en": "safe",
+    "pt": "seguro",
+    "type": "adjetivo",
+    "phrase": "I always keep my credit card in a safe place."
+  },
+  {
+    "en": "warehouse",
+    "pt": "armazém",
+    "type": "substantivo",
+    "phrase": "The manufacturer stores the finished products in a warehouse."
+  },
+  {
+    "en": "fall",
+    "pt": "queda",
+    "type": "substantivo",
+    "phrase": "Excessively high prices will cause a fall in sales."
+  },
+  {
+    "en": "past",
+    "pt": "passado",
+    "type": "adjetivo / particípio passado",
+    "phrase": "The company achieved its goals in the past year."
+  },
+  {
+    "en": "hard",
+    "pt": "dificil",
+    "type": "adjetivo / particípio passado",
+    "phrase": "The breadth of the subject makes it hard to master."
+  },
+  {
+    "en": "word",
+    "pt": "palavra",
+    "type": "adjetivo / particípio passado",
+    "phrase": "The stress of that word is on the last syllable."
+  },
+  {
+    "en": "apple",
+    "pt": "maçã",
+    "type": "substantivo",
+    "phrase": "Apples are delicious and, moreover, great for your health."
+  },
+  {
+    "en": "bread",
+    "pt": "pão",
+    "type": "substantivo",
+    "phrase": "The baker sells three kinds of bread."
+  },
+  {
+    "en": "run",
+    "pt": "correr",
+    "type": "verbo",
+    "phrase": "Those newer games do not run on old computers."
+  },
+  {
+    "en": "background",
+    "pt": "fundo",
+    "type": "substantivo",
+    "phrase": "There is a castle in the background of the picture."
+  },
+  {
+    "en": "law",
+    "pt": "lei",
+    "type": "substantivo",
+    "phrase": "The government has passed a new law."
+  },
+  {
+    "en": "awesome",
+    "pt": "incrível",
+    "type": "adjetivo",
+    "phrase": "My trip was awesome, I loved every minute."
+  },
+  {
+    "en": "database",
+    "pt": "base de dados",
+    "type": "substantivo",
+    "phrase": "The company stores clients data in a database."
+  },
+  {
+    "en": "server",
+    "pt": "servidor",
+    "type": "substantivo",
+    "phrase": "All computers are connected to the server."
+  },
+  {
+    "en": "technology",
+    "pt": "tecnologia",
+    "type": "substantivo, feminino",
+    "phrase": "Scientists discussed the deployment of new technologies."
+  },
+  {
+    "en": "research",
+    "pt": "pesquisa",
+    "type": "substantivo",
+    "phrase": "Research is necessary to the advancement of science."
+  },
+  {
+    "en": "innovation",
+    "pt": "inovação",
+    "type": "substantivo",
+    "phrase": "The technical innovations make the new model much faster."
+  },
+  {
+    "en": "connection",
+    "pt": "conexão",
+    "type": "substantivo",
+    "phrase": "The modem established a connection with the network."
+  },
+  {
+    "en": "coding",
+    "pt": "codificação",
+    "type": "substantivo",
+    "phrase": "The coding used in military messages is hard to decrypt."
+  },
+  {
+    "en": "wireless",
+    "pt": "sem fio",
+    "type": "adjetivo",
+    "phrase": "I have a wireless headphone"
+  },
+  {
+    "en": "keyboard",
+    "pt": "teclado",
+    "type": "substantivo",
+    "phrase": "i bought a new keyboard for my computer"
+  },
+  {
+    "en": "phone",
+    "pt": "telefone",
+    "type": "substantivo",
+    "phrase": "The phone fits perfectly into the case."
+  },
+  {
+    "en": "height",
+    "pt": "altura",
+    "type": "substantivo",
+    "phrase": "The topographer calculated the height of the mountain."
+  },
+  {
+    "en": "width",
+    "pt": "largura",
+    "type": "substantivo",
+    "phrase": "The architect carefully measured the width of the bedroom."
+  },
+  {
+    "en": "work",
+    "pt": "trabalho",
+    "type": "substantivo",
+    "phrase": "I finished the work before the deadline."
+  },
+  {
+    "en": "deadline",
+    "pt": "prazo",
+    "type": "substantivo",
+    "phrase": "We will have to work all night to meet the deadline."
+  },
+  {
+    "en": "mining",
+    "pt": "mineração",
+    "type": "substantivo",
+    "phrase": "Coal and ore are extracted by mining."
+  },
+  {
+    "en": "strength",
+    "pt": "força",
+    "type": "substantivo",
+    "phrase": "The athlete lifts weights to increase his physical strength."
+  },
+  {
+    "en": "string",
+    "pt": "corda",
+    "type": "substantivo",
+    "phrase": "I bought new strings for my guitar yesterday."
+  },
+  {
+    "en": "musician",
+    "pt": "músico",
+    "type": "substantivo",
+    "phrase": "The musician played the new composition at the concert."
+  },
+  {
+    "en": "wonderful",
+    "pt": "maravilhoso",
+    "type": "adjetivo, masculino",
+    "phrase": "The rooftop terrace offers a wonderful view of the city."
+  },
+  {
+    "en": "bathroom",
+    "pt": "banheiro",
+    "type": "substantivo",
+    "phrase": "We replaced the sink, the toilet and the tiles in the bathroom."
+  },
+  {
+    "en": "pilot",
+    "pt": "pilot",
+    "type": "Being an airplane pilot involves a lot of travelling.",
+    "phrase": "substantivo"
+  },
+  {
+    "en": "drive",
+    "pt": "dirigir",
+    "phrase": "I drive cars, but I am not capable of driving buses.",
+    "type": "verbo"
+  }
 ]

@@ -12,7 +12,9 @@
     "express": "^4.17.1",
     "nunjucks": "^3.2.3"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/RodrigoFonsecaG/englishgame2.git"
