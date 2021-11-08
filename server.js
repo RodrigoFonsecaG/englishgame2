@@ -2,6 +2,7 @@ const express = require('express');
 const server = express();
 
 const nunjucks = require('nunjucks');
+
 nunjucks.configure("src", {
     express: server,
     noCache: true
