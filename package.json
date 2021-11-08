@@ -1,10 +1,9 @@
 {
   "name": "englishgame2",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
@@ -12,5 +11,15 @@
   "dependencies": {
     "express": "^4.17.1",
     "nunjucks": "^3.2.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoFonsecaG/englishgame2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RodrigoFonsecaG/englishgame2/issues"
+  },
+  "homepage": "https://github.com/RodrigoFonsecaG/englishgame2#readme",
+  "description": ""
 }
