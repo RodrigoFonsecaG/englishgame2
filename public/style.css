@@ -8,7 +8,6 @@ body {
   background-color: #8e44ad;
   font-family: 'Roboto', sans-serif;
   color: white;
-  overflow: hidden;
 }
 
 p {
@@ -16,19 +15,21 @@ p {
   cursor: pointer;
 }
 
-section {
+section.main {
   display: grid;
 }
 
 .container {
   margin-right: 5rem;
   margin-left: 5rem;
+  position: relative;
 }
+
 
 img {
   max-width: 1200px;
   float: right;
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 800px;
   z-index: -1;
