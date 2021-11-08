@@ -14,4 +14,4 @@ server.get("/", (req, res) => {
     return res.render("index.html")
 })
 
-server.listen("5000");
+server.listen(process.env.PORT || 3000);
