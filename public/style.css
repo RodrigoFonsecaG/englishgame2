@@ -216,4 +216,8 @@ button {
     top: 0;
     left: -200px;
   }
+
+  .info {
+    margin-top: 1rem;
+  }
 }
